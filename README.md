@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crocodile27
-- 👀 I’m interested in web development and creating programs.
-- 🌱 I’m currently interested in sustainability and computational biology.
+- 👀 I’m interested in algorithms and computational biology.
+- 🌱 I have a passion for sustainability and genetics.
 - 💞️ I’m looking to collaborate on non-profit programs
 - 📫 How to reach me anthea.jin.guo@gmail.com
 
