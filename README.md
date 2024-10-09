@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anthea
 - 🐻 Berkeley Electrical Engineer and Computer Science Major.
-- 👀 I’m interested in engineering cool devices and computational biology.
+- 👀 I’m interested in engineering cool devices and solving problems with code.
 - 🌱 I have a passion for sustainability and am addicted to coding.
 - 📫 How to reach me: antheaguo@berkeley.edu
 
