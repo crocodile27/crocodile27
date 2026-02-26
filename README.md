@@ -1,82 +1,99 @@
-Hi, I’m Anthea 👋
+# Hi, I’m Anthea 👋
 
-Backend & Data Infrastructure Engineer
-Berkeley EECS
+Software Engineer passionate about building scalable systems — from backend data infrastructure to interactive web applications.
 
-I build scalable data pipelines, distributed systems, and performance-optimized backend infrastructure.
+I enjoy working across the stack:
+- Designing high-throughput data pipelines
+- Building resilient backend services
+- Deploying cloud-native applications
+- Creating intuitive, user-focused frontend experiences
 
-My work focuses on:
+---
 
-High-throughput ETL pipelines
+## 🚀 What I Work On
 
-REST API ingestion with retry & caching
+### 🔧 Backend & Data Engineering
+- Config-driven ETL pipelines integrating 10+ heterogeneous data sources
+- REST API ingestion with retry logic & caching layers
+- Knowledge graph construction (Neo4j, KGX)
+- Concurrency & performance optimization (40× speedups, large-scale batch scheduling)
+- CI/CD with pytest, tox, Jenkins
+- Dockerized scheduled ingestion workflows
+- AWS deployments (EC2, Lambda)
 
-Knowledge graph construction (Neo4j, KGX)
+### 🌐 Full-Stack & Frontend
+- React-based applications with dynamic UI and state management
+- Interactive tools deployed to AWS
+- Browser extensions and productivity tools
+- API integration and backend communication layers
 
-Concurrency & parallel computing
+### ⚙️ Systems & Performance
+- Parallel computing (x86, C)
+- GPU workload optimization
+- Memory and runtime profiling
+- Rate-limit testing & concurrency tuning
 
-Cloud deployment (AWS EC2, Lambda)
+---
 
-CI/CD & containerized workflows
+## 📌 Featured Projects
 
-🚀 Featured Projects
-🧠 Knowledge Graph Microbe (kg-microbe)
+### 🧠 Knowledge Graph Microbe
+Config-driven ETL system for large-scale graph construction.
 
-Config-driven ETL pipeline integrating 10+ heterogeneous data sources into a unified Neo4j knowledge graph.
+- Reduced full dataset processing from ~2 years to ~30 hours
+- Reduced API calls by ~33% via HTTP caching
+- Integrated CI/CD + Dockerized execution
+- Neo4j + SPARQL workflows
 
-Highlights:
+[Repo Link Here](https://github.com/Knowledge-Graph-Hub/kg-microbe)
 
-Reduced dataset processing from ~2 years to 30 hours via parallelization & scheduling
+---
 
-Reduced API calls by 33% using SQLite-backed HTTP caching
+### ☁️ AWS Course Pathway Platform
+Interactive curriculum discovery tool deployed on AWS (EC2 + Lambda).
+- Interactive applications with dynamic state management
+- UX-focused tools combining frontend + backend logic
 
-Integrated REST APIs with retry logic and concurrency tuning
+[Repo Link Here](https://github.com/crocodile27/bioehs?tab=readme-ov-file)
 
-CI/CD with pytest, tox, Jenkins
+---
 
-Dockerized scheduled ingestion workflows
+### ❤️ Assistify
+A multimodal visual-audio companion that empowers seniors to navigate smartphones safely, confidently, and independently.
+- Retrieval Augmented Generation database for personalized assistance
+- Speech-to-text text-to-speech hand free guidance
+- iOS and Android parallel development in React using Flutter
 
-[Repository Link Here]
+[Repo Link Here](https://github.com/dylancc5/assistify?tab=readme-ov-file#use-cases--real-world-scenarios)
 
-📚 WordNet / N-Gram Engine (Java)
 
-Implemented semantic graph and n-gram search engine in Java using custom-built data structures.
+## 🛠 Tech Stack
 
-Graph traversal & search optimization
+**Languages:**  
+Java · Python · C++ · C · JavaScript · Bash  
 
-Object-oriented system design
+**Frontend:**  
+React · HTML · CSS  
 
-Efficient large-text corpus processing
+**Backend & Data:**  
+REST APIs · ETL · Neo4j · MongoDB · SQL · SPARQL  
 
-[Repository Link Here]
+**Cloud & DevOps:**  
+AWS (EC2, Lambda) · Docker · Jenkins · CI/CD · Git  
 
-☁️ AWS Course Pathway Platform
+---
 
-Interactive curriculum navigation tool deployed on AWS (EC2 + Lambda).
+## 🎯 What Drives Me
 
-Serverless backend logic
+I’m motivated by building systems that are:
 
-Dynamic data rendering
+- Scalable  
+- Reliable  
+- Thoughtfully engineered  
+- User-centered  
 
-Production cloud deployment
+Whether that’s optimizing a data pipeline or designing a clean frontend experience, I enjoy turning complex problems into robust, maintainable software.
 
-[Repository Link Here]
+---
 
-⚙️ Parallel & Systems Projects
-
-GPU batch scheduling achieving 40× speedup
-
-x86 parallel for-loop optimization in C (CS61C)
-
-Concurrency experimentation with API rate limiting
-
-🛠 Tech Stack
-
-Languages: Java, Python, C++, C, Bash
-Backend & Data: REST APIs, ETL, Neo4j, MongoDB, SQL, SPARQL
-Cloud & Infra: AWS (EC2, Lambda), Docker, Jenkins, CI/CD
-Systems: Parallel computing, GPU workloads, memory optimization
-
-🎯 Interests
-
-I’m particularly interested in backend systems, large-scale data infrastructure, and performance engineering.
+📫 Feel free to explore my pinned repositories below!
