@@ -66,6 +66,8 @@ A multimodal visual-audio companion that empowers seniors to navigate smartphone
 
 [Repo Link Here](https://github.com/dylancc5/assistify?tab=readme-ov-file#use-cases--real-world-scenarios)
 
+---
+
 
 ## 🛠 Tech Stack
 
